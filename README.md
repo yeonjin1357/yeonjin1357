@@ -23,8 +23,6 @@ Hi, I'm a second year web developer. You can find my project here.
 
 ## JINJIN's log
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yeonjin1357)](https://velog.io/@yeonjin1357)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonjin1357)](https://github.com/eungyeole/velog-readme-stats)
 
 <br>
