@@ -6,7 +6,7 @@
 
 # Hello, I'm JINJIN! 👋
 
-Hi, I'm a 3 year web frontend developer. You can find my project here.
+Hi, I'm a rookie web frontend developer. You can find my project here.
 
 <br>
 
