@@ -2,15 +2,13 @@
 
 # 안녕하세요, JINJIN입니다! 👋
 
-안녕하세요, 저는 신입 웹 프론트엔드 개발자 JINJIN입니다. 이곳에서는 제 프로젝트를 찾을 수 있습니다.
+안녕하세요, 저는 프론트엔드 개발자 JINJIN입니다. 이곳에서는 제 프로젝트를 찾을 수 있습니다.
 
 # Hello, I'm JINJIN! 👋
 
 Hi, I'm a rookie web frontend developer. You can find my project here.
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjin1357&count_bg=%23F98DC9&title_bg=%23555555&icon=reddit.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjin1357&show_icons=true&theme=moltack)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjin1357&langs_count=10&layout=compact&theme=dark)](https://github.com/yeonjin1357/yeonjin1357)
