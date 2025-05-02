@@ -53,4 +53,3 @@ Hi, I'm a rookie web frontend developer. You can find my project here.
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft OneNote-7719AA?style=for-the-badge&logo=Microsoft OneNote&logoColor=white">
